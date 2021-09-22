@@ -1,7 +1,9 @@
 package com.company;
 
-public class Main {
+import java.util.Scanner;
 
+public class Main {
+Scanner Scanner = new Scanner(System.in);
     public static void main(String[] args) {
 
         {
@@ -15,7 +17,9 @@ public class Main {
                     System.out.println(valentinesDay);
 
 
-                    //        class PetClass {
+
+
+                            //        class PetClass {
 //            private String dogName;
 //            private int ageOfDog;
 //            private String locationOfPet;
